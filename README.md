@@ -94,7 +94,7 @@ Use this section to outline areas that you want to continue focusing on in futur
 - Frontend Mentor - [@aafzal5](https://www.frontendmentor.io/profile/aafzal5)
 <!-- - Twitter - [@yourusername](https://www.twitter.com/yourusername) -->
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
+<!-- **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.** -->
 
 <!-- ## Acknowledgments
 
